@@ -1,0 +1,246 @@
+#title-top p{
+    font-size: .9rem ;
+    height: 40px;
+}
+.banner-one{
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+}
+.banner-master{
+    padding: 30px 0;
+    text-align: center;
+    flex-basis: 100%;
+}
+.banner-master h3{
+    font-size: 21px;
+    padding: 0 0 10px 0;
+}
+.banner-master .debug{
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 27px;
+}
+.banner-master p{
+    font-size: 16px;
+}
+.banner-master .btn{
+    margin: 20px 0;
+}
+.banner-book{
+    width: 200px;
+}
+.note{
+    font-size: 12px;
+}
+
+
+
+
+
+
+.conten{
+    width: 80%;
+    font-size: 16px;
+}
+.conten-bg{
+    margin-bottom: 30px;
+    width: 100%;
+}
+.conten .conten-nonebg{
+    padding-bottom: 45px;
+    width: 100%;
+}
+.conten-table{
+    width:90%;
+    margin:0 auto;
+    border-radius: 5px;
+}
+.table-tile{
+    padding: 20px 0;
+    font-size:23px;
+    font-weight: 900;
+}
+.table .table-intro .table-right{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.table .table-intro .table-right p{
+    height: 45px;
+    width: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 8px;
+    font-size: 1rem;
+}
+.table .table-intro{
+    padding: 20px 13px;
+}
+.table .table-intro1{
+    padding: 20px 13px;
+}
+.table .table-intro1 .table-right p{
+    height: 45px;
+    width: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 8px;
+    font-size: 1rem;
+}
+.table .table-intro .table-left h3{
+    font-size: 1.1rem;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+.table .table-intro1 .table-left h3{
+    font-size: 1.1rem;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+.table .table-intro1 .table-left p{
+    font-size: .9rem;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+.table .table-intro .table-left p{
+    font-size: .9rem;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+
+/* ss4 */
+.conten-icon .table-title{
+    text-align: center;
+    padding: 30px 0;
+    font-weight: 700;
+    font-size: 2rem;
+}
+.list-icon{
+    width: 100%;
+    margin: auto;
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    color: #fff;
+}
+.icon-right h3{
+    font-size: 1.4rem;
+    padding-bottom: 1rem;
+}
+.icon-right p{
+    font-size: 1rem;
+    opacity: .8;
+}
+.icon-left .icon{
+    font-size: 50px;
+    margin-right: 30px;
+    display: flex;
+    align-items: flex-start;
+}
+
+
+
+/* ss5 */
+.wrap-title{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 700;
+    padding: 40px 0 30px 0;
+}
+.wrap-conten {
+    display: flex;
+    flex-direction: column;
+}
+
+
+/* ss6 book */
+.describe{
+   width: 100%;
+}
+.describe-all{
+    width: 90%;
+    padding: 40px 0;
+}
+.buy{
+   
+    width: 90%;
+    margin: 0 auto;
+    background: #b0c4ff;
+    padding: 20px 0;
+}
+.describe-all h2{
+    text-align: center;
+    color: #fff;
+    font-size: 42px;
+    padding: 30px 0;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.money{
+    padding: 15px 0;
+    font-size: 2rem;
+    font-weight: 500;
+    text-align: center;
+}
+.buy .button{
+    text-align: center;
+}
+.buy-text{
+    margin: 16px 0;
+    padding-top: 10px;
+    text-align: center;
+    color: #fff;
+    font-size: 12px;
+}
+
+
+/* ss7
+ */
+ .questions{
+    margin: 30px auto;
+}
+.section-conten h1{
+    font-size: 1.8rem;
+    padding: 25px;
+}
+.section-conten p{
+    font-size: 1rem;
+}
+
+
+.clai .about-title{
+    font-size: 1.7rem;
+    padding: 40px;
+    font-weight: 800;
+}
+.about-icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+    
+}
+.about-cont{
+    width: 100%;
+    margin:0 auto;
+    background-color: #fff;
+    padding: 5px;
+    border-radius: 10px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
+.icon-image{
+    width: 100%;
+}
+.icon-con{
+    margin-left: 5px;
+    width: 95%;
+    padding:10px 5px;
+}
+.list-about{
+    width: 90%;
+}
